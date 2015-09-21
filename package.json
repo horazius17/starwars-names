@@ -1,5 +1,5 @@
 {
-  "name": "starwars-names",
+  "name": "horazius-starwars-names",
   "version": "1.0.0",
   "description": "get random star wars names",
   "main": "src/index.js",
