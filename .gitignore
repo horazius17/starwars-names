@@ -2,3 +2,4 @@ node_modules
 StarWars.njsproj
 *.suo
 *.sln
+.ntvs_analysis.dat
